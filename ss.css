@@ -1,0 +1,30 @@
+.box1 a{
+    background-color: rgb(178, 178, 178);
+    color: #0202a0;
+    font-size: 20px;
+    text-decoration: none;
+    width: 350px;
+}
+.box2{
+    background-color: aquamarine;
+    color: black;
+    width: 800px; height: 150px;
+}
+.box3{
+    background-color: aquamarine;
+    color: black;
+    width: 800px; height: 150px;
+}
+.box4{
+    background-color: aquamarine;
+    color: black;
+    width: 800px; height: 100px;
+}
+.box5{
+    background-color: aquamarine;
+    color: black;
+    width: 800px; height: 100px;
+}
+.c1{
+    border: 2px solid red;
+}
